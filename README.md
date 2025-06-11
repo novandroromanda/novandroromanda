@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/novandroromanda)
+- 💼 [LinkedIn](https://www.linkedin.com/in/novandro-romanda-254697274/)
 - 🌐 [My Portfolio (coming soon)](https://novandroromanda.github.io)
 
 ---
