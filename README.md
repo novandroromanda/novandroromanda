@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @novandroromanda
-- 😄 Pronouns: Novan
 
 <!---
 novandroromanda/novandroromanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
