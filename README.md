@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-🌱 I'm currently fresh graduate and still alive alhamdulllah🙂
+🌱 **I'm currently a fresh graduate and still alive alhamdulillah**🙂
 ⚡ Passionate about **web development, software architecture, and system design**  
 📚 I enjoy learning about **design and coding**
 
