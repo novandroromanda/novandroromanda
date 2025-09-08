@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 ---
 
 ### 🚀 Projects I've Worked On
-- 🔧 Dynamic form generator using ASP.NET Core & Blazor (intership)  
-- 📊 Custom reporting engine with filter & export features (intership)
+- 🔧 Dynamic form generator using ASP.NET Core & Blazor (internship)  
+- 📊 Custom reporting engine with filter & export features (internship)
 - 📚 Android App for book management (Read/To-Read/Reading)  
 - 🧠 Job vacancy portal for campus (Laravel + Blade)
 
