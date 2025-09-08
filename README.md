@@ -1,17 +1,12 @@
 
-<!---
-novandroromanda/novandroromanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### Hey, I’m Novan 👋
 
 Welcome to my GitHub profile!
 
-🌱 I'm currently a student in **Manajemen Informatika @ Politeknik Negeri Lampung**  
-💼 Currently doing internship at **PT. Inovasi Mitra Sejati**  
+🌱 I'm currently fresh graduate and still alive alhamdulllah🙂
 ⚡ Passionate about **web development, software architecture, and system design**  
-📚 I enjoy learning about **.NET ecosystem, Blazor, Microservices, and DevOps**
+📚 I enjoy learning about **design and coding**
 
 ---
 
@@ -19,21 +14,15 @@ Welcome to my GitHub profile!
 - **Languages:** C#, PHP, JavaScript, SQL
 - **Frameworks:** ASP.NET Core, Laravel, CodeIgniter, Blazor
 - **Database:** SQL Server, MySQL, PostgreSQL
-- **Tools:** Git, Docker, VS Code, Figma, Postman, Azure DevOps
+- **Tools:** Git, VS Code, Figma, Postman
 
 ---
 
 ### 🚀 Projects I've Worked On
-- 🔧 Dynamic form generator using ASP.NET Core & Blazor  
-- 📊 Custom reporting engine with filter & export features  
+- 🔧 Dynamic form generator using ASP.NET Core & Blazor (intership)  
+- 📊 Custom reporting engine with filter & export features (intership)
 - 📚 Android App for book management (Read/To-Read/Reading)  
 - 🧠 Job vacancy portal for campus (Laravel + Blade)
-
----
-
-### 📈 My GitHub Stats
-
-![Novan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novandroromanda&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -41,7 +30,8 @@ Welcome to my GitHub profile!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/novandro-romanda-254697274/)
 - 🌐 [My Portfolio (coming soon)](https://novandroromanda.github.io)
-
+- 📷 [Instagram](https://www.instagram.com/novandroromanda)
+- 
 ---
 
 > *"Keep learning, keep building, and never stop shipping."*
