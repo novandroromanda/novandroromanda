@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 - 💼 [LinkedIn](https://www.linkedin.com/in/novandro-romanda-254697274/)
 - 🌐 [My Portfolio (coming soon)](https://novandroromanda.github.io)
 - 📷 [Instagram](https://www.instagram.com/novandroromanda)
-- 
+
 ---
 
 > *"Keep learning, keep building, and never stop shipping."*
